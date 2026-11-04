@@ -85,22 +85,22 @@ A bill-splitting app that helps people fairly divide shared expenses and track b
 ### 2. 📋 Task Manager
 A productivity-focused task management app for organizing and tracking daily work.
 
-**Tech Stack:** React, Node.js, Express, MongoDB  
+**Tech Stack:** HTML, CSS, JavaScript, localStorage  
 **Key Features:**
 - Create and manage tasks
-- Update status and priorities
+- Mark tasks complete and filter by status
 - Organize work efficiently
 - Persistent data storage
-- Intuitive dashboard
+- Timestamped tasks and a clear-all control
 
 [View Project](https://github.com/XasanMahadCusmaan1/task-manager)
 
 ---
 
 ### 3. 💼 Portfolio
-A personal portfolio website showcasing my skills, projects, and professional work.
+An education-themed multi-page website built to practice HTML and CSS.
 
-**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS  
+**Tech Stack:** HTML, CSS  
 **Key Features:**
 - Responsive layout
 - Modern and clean design
@@ -155,3 +155,10 @@ A personal portfolio website showcasing my skills, projects, and professional wo
 I'm open to collaboration, learning opportunities, and exciting projects.
 
 </div>
+
+## More learning projects
+
+- [CV / Resume Builder](https://github.com/XasanMahadCusmaan1/CvProject): React and TypeScript form state with edit and preview modes.
+- [usePopcorn](https://github.com/XasanMahadCusmaan1/usePopcorn): React and TMDB search with debouncing and a browser-saved watched list.
+- [Frontend portfolio](https://github.com/XasanMahadCusmaan1/my_portfolio): HTML, Sass, and JavaScript with project galleries.
+- [JavaScript learning journal](https://github.com/XasanMahadCusmaan1/40-Days-of-learning-javasCript): course notes, exercises, and practice projects.
